@@ -54,7 +54,7 @@
     "MISSING_BOTS_FOUND": "## Missing Bot(s)\nFound {0} missing bots.\n### Music Bots \n",
     "NO_MISSING_BOTS_FOUND": "## All Good!\nAll the bots are in the server.\n### Music Bots\n",
     "SETUP_PANEL_PAGE_THREE_DESCRIPTION_LOGGING_AND_DJ": "## 🪛︱DJ Role & Logs Channel\nClick on the menus below to make a selection. These options can be edited later.",
-    "SETUP_PANEL_PAGE_FOUR_DESCRIPTION_WRAPPING_UP": "## :dizzy:︱Wrapping Up\nOne last step left to start enjoying the music experience! \n\nSelect a channel to send the master panel in.",
+    "SETUP_PANEL_PAGE_FOUR_DESCRIPTION_WRAPPING_UP": "## \uD83D\uDCAB︱Wrapping Up\nOne last step left to start enjoying the music experience! \n\nSelect a channel to send the master panel in.\n\n**Note:** Using the master panel is optional; you and your members can alternatively use /personal-playlist or /play instead.",
     "CANT_TALK_IN_CHANNEL": "I don't have permissions to send messages in that channel. Please grant me the following permissions: View Channel, Send Messages, Embed Links.",
     "CANT_SET_MANAGED_ROLE": "Members roles only, no bots",
     "SENT_PANEL": "Sent the panel.",
