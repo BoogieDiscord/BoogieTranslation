@@ -70,7 +70,12 @@
     "REACHED_QUEUE_LIIMT": "Du hast das Warteschlangenlimit erreicht.",
     "NO_PERM_TO_JOIN_VC": "Bot {0} hat keine Berechtigung, dem Sprachkanal beizutreten.",
     "CONFIRM_PERSONAL_PLAYLIST_DELETION": "### <:alert:1199805191550156800> | Bist du sicher, dass du alle Titel aus deiner Playlist löschen möchtest?\nDiese Aktion kann nicht rückgängig gemacht werden.",
-    "PERSONAL_PLAYLIST_CLEARED": "Deine persönliche Playlist wurde gelöscht."
+    "PERSONAL_PLAYLIST_CLEARED": "Deine persönliche Playlist wurde gelöscht.",
+    "THERE_IS_ACTIVE_LIVE_LYRICS": "Es gibt bereits eine aktive Live-Lyrics-Sitzung in diesem Kanal.",
+    "LIVE_LYRICS_NOT_SUPPORTED": "Derzeit werden Songtexte nur für YouTube-Tracks unterstützt.",
+    "LYRICS_ACTIVE": "Sie können diese Interaktion nicht benutzen, wenn die Live-Lyrics aktiv sind.",
+    "LIVE_LYRICS_ACTIVE_IN": "Live Lieder sind jetzt in {0} aktiv",
+    "LIVE_LYRICS_ENDED": "Die Texte sind abgeschlossen."
   },
   "code": "de"
 }
