@@ -45,7 +45,7 @@
     "INVALID_URL": "URL inválida.",
     "ADDED_TRACKS_TO_PERSONAL_PLAYLIST": "Añadidas {0} canciones a tu playlist personal.",
     "TRACK_WAS_REMOVED_FROM_PERSONAL_PLAYLIST": "La canción fue eliminada de tu playlist personal.",
-    "PERSONAL_TRACK_EDITING_MODE_EMBED_DESCRIPTION": "Edita tu playlist personal"
+    "PERSONAL_TRACK_EDITING_MODE_EMBED_DESCRIPTION": "Edita tu playlist personal",
     "TRACK_NOT_FOUND_IN_PERSONAL_PLAYLIST": "Canción no encontrada en tu playlist personal.",
     "COULDNT_MOVE_TRACK": "No se pudo mover la canción.",
     "TRACK_WAS_MOVED": "La canción fue movida exitosamente.",
