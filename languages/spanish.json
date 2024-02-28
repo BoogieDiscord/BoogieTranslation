@@ -55,7 +55,7 @@
     "NO_MISSING_BOTS_FOUND": "## ¡Perfecto!\nTodos los bots están en el servidor.\n### Bots de Música\n",
     "SETUP_PANEL_PAGE_THREE_DESCRIPTION_LOGGING_AND_DJ": "## 🪛︱Rol de DJ y Canal de Registros\nHaz clic en los menús abajo para hacer una selección. Estas opciones pueden ser editadas después.",
     "SETUP_PANEL_PAGE_FOUR_DESCRIPTION_WRAPPING_UP": "## 💫︱Finalizando\n¡Solo queda un paso para empezar a disfrutar de la experiencia musical! \n\nSelecciona un canal para enviar el panel de música.\n\n**Nota:** Usar el panel de música es opcional; tú y tus miembros pueden alternativamente usar /personal-playlist o /play en su lugar.",
-    "CANT_TALK_IN_CHANNEL": "No tengo permisos para enviar mensajes en ese canal. Por favor otórgame los siguientes permisos: Ver Canal, Enviar Mensajes, Enviar enlaces.",
+    "CANT_TALK_IN_CHANNEL": "No tengo permisos para enviar mensajes en ese canal. Por favor otórgame los siguientes permisos: {0}",
     "CANT_SET_MANAGED_ROLE": "Roles de miembros solamente, no bots",
     "SENT_PANEL": "Enviado el panel.",
     "HELP_MENU_MAIN_DESCRIPTION": "¡Bienvenido al menú de ayuda! Aquí puedes encontrar toda la información que necesitas para empezar con el bot. Usa el menú para navegar entre las diferentes secciones.",
@@ -76,6 +76,7 @@
     "LIVE_LYRICS_NOT_SUPPORTED": "Actualmente, las letras solo son compatibles para pistas de YouTube.",
     "LYRICS_ACTIVE": "No puedes usar esta interacción mientras las letras en vivo están activas.",
     "LIVE_LYRICS_ACTIVE_IN": "Las letras en vivo ahora están activas en {0}",
+    "FILTERS_APPLIED": "Se aplicaron filtros. (Puede tardar unos segundos en aplicarse).",
     "LIVE_LYRICS_ENDED": "Las letras han sido finalizadas."
   },
   "code": "es"

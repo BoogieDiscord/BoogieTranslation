@@ -55,7 +55,7 @@
     "NO_MISSING_BOTS_FOUND": "## Alles klar!\nAlle Bots befinden sich im Server.\n### Musik-Bots\n",
     "SETUP_PANEL_PAGE_THREE_DESCRIPTION_LOGGING_AND_DJ": "## 🪛︱DJ-Rolle & Log-Kanal\nKlicke auf die Menüs unten, um eine Auswahl zu treffen. Diese Optionen können später bearbeitet werden.",
     "SETUP_PANEL_PAGE_FOUR_DESCRIPTION_WRAPPING_UP": "## :dizzy:︱Abschluss\nNur noch ein Schritt, um das Musikerlebnis zu starten!\n\nWähle einen Kanal aus, um das Hauptpanel zu senden.",
-    "CANT_TALK_IN_CHANNEL": "Ich habe keine Berechtigungen, Nachrichten in diesem Kanal zu senden. Bitte gewähre mir die folgenden Berechtigungen: Kanal anzeigen, Nachrichten senden, Links einbetten.",
+    "CANT_TALK_IN_CHANNEL": "Ich habe keine Berechtigungen, Nachrichten in diesem Kanal zu senden. Bitte gewähre mir die folgenden Berechtigungen: {0}",
     "CANT_SET_MANAGED_ROLE": "Nur Mitgliederrollen, keine Bots",
     "SENT_PANEL": "Das Panel wurde gesendet.",
     "HELP_MENU_MAIN_DESCRIPTION": "Willkommen im Hilfemenü! Hier findest du alle Informationen, die du benötigst, um mit dem Bot zu starten. Verwende das Menü, um zwischen den verschiedenen Abschnitten zu navigieren.",
@@ -75,7 +75,9 @@
     "LIVE_LYRICS_NOT_SUPPORTED": "Derzeit werden Songtexte nur für YouTube-Tracks unterstützt.",
     "LYRICS_ACTIVE": "Sie können diese Interaktion nicht benutzen, wenn die Live-Lyrics aktiv sind.",
     "LIVE_LYRICS_ACTIVE_IN": "Live Lieder sind jetzt in {0} aktiv",
-    "LIVE_LYRICS_ENDED": "Die Texte sind abgeschlossen."
+    "LIVE_LYRICS_ENDED": "Die Texte sind abgeschlossen.",
+    "FILTERS_APPLIED": "Filter angewendet. (Es kann einige Sekunden dauern, um angewendet zu werden)",
+    "LYRICS_MENU_DESCRIPTION": "Über dieses Menü können Sie nach Texten des aktuellen Titels suchen oder Live-Texte aktivieren!"
   },
   "code": "de"
 }
