@@ -30,7 +30,7 @@
     "NOT_A_DJ": "You\u0027re not a dj",
     "SHUFFLED": "The queue has been shuffled.",
     "REPEAT_MODE_CHANGED_TO": "Changed repeat mode to {0}",
-    "NOT_A_VALID_NUMBER": "Not a valid number (1 - 100)",
+    "NOT_A_VALID_NUMBER": "Not a valid number (5 - 100)",
     "VOLUME_CHANGED_TO": "Volume changed to {0}",
     "AUTO_PLAY_WILL_TRY_TO_ADD": "Auto-play will try to add a suitable track.",
     "DISCONNECTED": "Disconnected from the voice channel.",
@@ -82,6 +82,7 @@
     "PREMIUM_NOT_LINKED": "This server is not linked to a premium subscription.",
     "PREMIUM_DEACTIVATED": "Premium has been deactivated from this server.",
     "PREMIUM_ALREADY": "This server is already a premium server.",
+    "LIMIT_REACHED": "You\u0027re limited: {0}",
     "LIVE_LYRICS_ENDED": "Lyrics has been ended."
   },
   "code": "en"

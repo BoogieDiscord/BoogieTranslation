@@ -82,6 +82,7 @@
     "PREMIUM_ACTIVE_IN": "Premium is now activated!",
     "PREMIUM_NOT_LINKED": "This server is not linked to a premium subscription.",
     "PREMIUM_DEACTIVATED": "Premium has been deactivated from this server.",
+    "LIMIT_REACHED": "You're limited: {0}",
     "PREMIUM_ALREADY": "This server is already a premium server."
   },
   "code": "de"
