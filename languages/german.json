@@ -83,7 +83,8 @@
     "PREMIUM_NOT_LINKED": "This server is not linked to a premium subscription.",
     "PREMIUM_DEACTIVATED": "Premium has been deactivated from this server.",
     "LIMIT_REACHED": "You're limited: {0}",
-    "PREMIUM_ALREADY": "This server is already a premium server."
+    "PREMIUM_ALREADY": "This server is already a premium server.",
+    "INVALID_FILE_TYPE": "Ungültiger Dateityp, nur (mp3, wav, flac, ogg, m4a) werden unterstützt."
   },
   "code": "de"
 }

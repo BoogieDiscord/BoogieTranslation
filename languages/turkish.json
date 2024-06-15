@@ -83,7 +83,8 @@
     "PREMIUM_DEACTIVATED": "Premium bu sunucuda devre dışı bırakıldı.",
     "PREMIUM_ALREADY": "Bu sunucu zaten premium bir sunucudur.",
     "LIVE_LYRICS_ENDED": "Sözler sona erdi.",
-    "LIMIT_REACHED": "You're limited: {0}"
+    "LIMIT_REACHED": "You're limited: {0}",
+    "INVALID_FILE_TYPE_IN_TR_LANG": "Geçersiz dosya türü, yalnızca (mp3, wav, flac, ogg, m4a) desteklenir."
   },
   "code": "try"
 }

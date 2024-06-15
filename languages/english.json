@@ -30,7 +30,7 @@
     "NOT_A_DJ": "You\u0027re not a dj",
     "SHUFFLED": "The queue has been shuffled.",
     "REPEAT_MODE_CHANGED_TO": "Changed repeat mode to {0}",
-    "NOT_A_VALID_NUMBER": "Not a valid number (5 - 100)",
+    "NOT_A_VALID_NUMBER": "Not a valid number (1 - 100)",
     "VOLUME_CHANGED_TO": "Volume changed to {0}",
     "AUTO_PLAY_WILL_TRY_TO_ADD": "Auto-play will try to add a suitable track.",
     "DISCONNECTED": "Disconnected from the voice channel.",
@@ -67,7 +67,6 @@
     "SIMPLE_CONTROL_PANEL_DESCRIPTION": "Click a button, and a free bot will join your channel!",
     "TRACKS_ADDED_TO_PLAY_LIST": "Added {0} tracks to the queue.",
     "LYRICS_MENU_DESCRIPTION": "Through this menu, you can search for lyrics of the current track or enable live lyrics!",
-    "PREMIUM_NOT_FOUND": "PREMIUM_NOT_FOUND",
     "REACHED_QUEUE_LIIMT": "You have reached the queue limit.",
     "NO_PERM_TO_JOIN_VC": "Bot {0} doesn\u0027t have permission to join the voice channel.",
     "CONFIRM_PERSONAL_PLAYLIST_DELETION": "### \u003c:alert:1199805191550156800\u003e | Are you sure you want to delete all your playlist tracks?\nThis action cannot be undone.",
@@ -83,6 +82,7 @@
     "PREMIUM_DEACTIVATED": "Premium has been deactivated from this server.",
     "PREMIUM_ALREADY": "This server is already a premium server.",
     "LIMIT_REACHED": "You\u0027re limited: {0}",
+    "INVALID_FILE_TYPE": "Invalid file type, only (mp3, wav, flac, ogg, m4a) are supported.",
     "LIVE_LYRICS_ENDED": "Lyrics has been ended."
   },
   "code": "en"
